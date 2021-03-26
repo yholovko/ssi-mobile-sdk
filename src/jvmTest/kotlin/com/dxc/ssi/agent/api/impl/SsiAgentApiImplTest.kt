@@ -14,6 +14,7 @@ class SsiAgentApiImplTest {
 
 
     @Test
+    @Ignore
     //@Ignore("Ignored because it is actually integration tets whoch should be moved out of unit tests in order to to run during build")
     //TODO: Move integration tests to separate module
     fun basicTest() {
